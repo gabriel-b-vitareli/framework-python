@@ -6,3 +6,6 @@ Com o endereço 10.87.47.79 (Rede) há um aviso de segurança pois o protocolo n
 <img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/523c6c55-3f0a-4be6-9bf5-386bf58161db" />
 <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/910a5f3e-64d1-4328-b930-5e4c60113c9d" />
 <img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/0f4cfa9f-a945-40dd-af5e-d4baa0232466" />
+<img width="889" height="357" alt="image" src="https://github.com/user-attachments/assets/2636cae1-ccde-4450-a254-b37d8bdb8b00" />
+<img width="1465" height="815" alt="image" src="https://github.com/user-attachments/assets/122c95e3-409b-4e24-a89a-a427361baf0f" />
+
