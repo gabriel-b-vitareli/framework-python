@@ -22,3 +22,4 @@ Com o endereço 10.87.47.79 (Rede) há um aviso de segurança pois o protocolo n
 <img width="343" height="59" alt="image" src="https://github.com/user-attachments/assets/8799b462-388e-49cf-94d2-ce9d3fd6960b" />
 6. Digitar a senha da máquina que estamos tentando nos conectar
 7. Pronto, agora o VSCode abrirá uma nova janela que está "localizada" na máquina que nos conectamos (Nesse caso, nosso Ubuntu)
+<img width="961" height="538" alt="image" src="https://github.com/user-attachments/assets/42b9958c-ca0c-48c2-a505-89aa4c5653fd" />
